@@ -1,0 +1,24 @@
+@import "reset.css";
+
+
+
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
+.shadow {
+  box-shadow: 0px 0px 20px #40310a inset;
+     
+.triangle {
+  border-color: #fff #000 #000 #000;
+  border-style: solid;
+  border-width: 10px 5px 0 5px;
+  height: 0;
+  width: 0;
+}
+
+
